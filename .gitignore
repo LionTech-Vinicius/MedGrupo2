@@ -1,0 +1,7 @@
+.vscode/*
+CursoEmTdd.Domain.Test/bin/*
+CursoEmTdd.Domain.Test/obj/*
+CursoEmTdd.API/bin/*
+CursoEmTdd.API/obj/*
+CursoEmTdd.Dominio/bin/*
+CursoEmTdd.Dominio/obj/*
